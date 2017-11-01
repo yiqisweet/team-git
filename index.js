@@ -3,6 +3,6 @@
  * @Date:   2017-11-01 02:29:09
  * @Email:  mynameislxmax@outlook.com
  * @Last modified by:   randy
- * @Last modified time: 2017-11-01 02:33:10
+ * @Last modified time: 2017-11-01 02:44:24
  */
-console.log('李鑫');
+ console.log('李鑫鑫')
