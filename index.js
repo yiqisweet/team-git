@@ -6,4 +6,4 @@
  **/
 
  console.log('李四');
-console.log('王五')
+console.log('王五');
