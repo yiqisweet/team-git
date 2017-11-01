@@ -15,3 +15,7 @@ function sayHello(){
 function sayHello2(){
   console.log('hello2');
 }
+
+function saybye(){
+
+}
