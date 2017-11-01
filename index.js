@@ -7,3 +7,7 @@
 
  console.log('李四');
 console.log('王五');
+
+function sayHello(){
+  console.log('hello');
+};
